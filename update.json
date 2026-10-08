@@ -1,7 +1,8 @@
 {
   "versionCode": 2,
   "versionName": "1.0.1",
-  "downloadUrl": "https://github.com/makansold2021-ops/NahCarLauncher-updates/releases/download/v1.0.1/app-release.apk",
-  "sha256": "FBF9F2C4AEC925C4B880AC9500C0424AB2F3E92C8D86457C87822D45F3B24F4E",
-  "description": "Тестовое обновление NahCar Launcher 1.0.1"
+  "title": "NahCar Launcher 1.0.1",
+  "notes": "Первое тестовое онлайн-обновление NahCar Launcher.\n\nИсправления и улучшения работы радио.",
+  "apkUrl": "https://github.com/makansold2021-ops/NahCarLauncher-updates/releases/download/v1.0.1/app-release.apk",
+  "sha256": "fbf9f2c4aec925c4b880ac9500c0424ab2f3e92c8d86457c87822d45f3b24f4e"
 }
